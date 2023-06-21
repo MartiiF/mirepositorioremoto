@@ -1,4 +1,6 @@
-
+.greeting {
+    text-align: center;
+}
 #formulario {
     display: flex;
     padding: 10px;

@@ -27,7 +27,6 @@
     border: #000000 dashed 2px;
     flex: 1;
     padding:10px;
-    position: sticky;
     flex-grow: 4;
 }
 @media (max-width: 650px) {
